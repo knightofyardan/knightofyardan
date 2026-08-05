@@ -5,13 +5,17 @@
 Hi! I'm Dani. I'm a computer networking student at a vocational high school. I am an IT enthusiast and I love photography.
 
 ## 🛠️ Tech Stack & Tools
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)
 ![Snapseed](https://img.shields.io/badge/Snapseed-4285F4?style=flat&logo=snapseed&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=brave&logoColor=white)
 ![Docs](https://img.shields.io/badge/Docs-4285F4?style=flat&logo=google-docs&logoColor=white)
 ![Sheets](https://img.shields.io/badge/Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
