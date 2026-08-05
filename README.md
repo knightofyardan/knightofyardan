@@ -2,7 +2,7 @@
 
 > ☕ *Americano enjoyer* ✨
 
-Hi! I'm Dani. I'm a computer networking student at a vocational high school. I am an IT enthusiast and I love photography.
+Hi! I'm Dani. I'm a computer networking student at a vocational high school. I am an IT enthusiast, as well as design and photography enthusiasts. Here are some project archives on my journey.
 
 ## 🛠️ Tech Stack & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
