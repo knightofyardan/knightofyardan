@@ -12,7 +12,6 @@ Hi! I'm Dani. I'm a computer networking student at a vocational high school. I a
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-FB542B?style=flat&logo=vscode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)
 ![Snapseed](https://img.shields.io/badge/Snapseed-4285F4?style=flat&logo=snapseed&logoColor=white)
